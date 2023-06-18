@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Ionic12/Ionic12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ionic12&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Langs" style="width: 495px">
+</p>
