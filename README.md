@@ -23,8 +23,4 @@ Here are some ideas to get you started:
    </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ionic12" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+<p align="left">✨ Thank you for visiting my profile! ✨</p>
