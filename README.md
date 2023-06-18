@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ionic12&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Langs" style="width: 495px">
-</p>
-
 <p align="left">
   <a href="https://github.com/dimasmds">
     <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats"/>
