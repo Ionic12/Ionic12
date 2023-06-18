@@ -6,7 +6,7 @@
 <h2>📫 How to reach me</h2>
 
 - Email: [your-email@example.com](mailto:bagusiqshan81@gmail.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/iqshanbagus/)
+- LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-iqshanbagus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iqshanbagus/) 
 
 ## :fire: My Stats :
 
