@@ -14,7 +14,7 @@ My Name is **Iqshan Bagus Prasetyo** I am a Flutter & Front End Web Enthusiast f
    </a>
 </p>
 
-*NOTE : Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Ionic12/github-readme-stats)*
+*NOTE : Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 <h2>:mailbox: How to reach me</h2>
 
