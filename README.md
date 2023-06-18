@@ -2,8 +2,8 @@
 
 My Name is **Iqshan Bagus Prasetyo** I am a Flutter & Front End Web Enthusiast from Indonesia 
 
-📚 I’m currently learning FrontEnd Framework & Flutter
-📚 I'm currently learning BackEnd Framework like Laravel, Javascrit & React
+- 📚 I’m currently learning FrontEnd Framework & Flutter
+- 📚 I'm currently learning BackEnd Framework like Laravel, Javascrit & React
 
 <h2>:mailbox: How to reach me</h2>
 
