@@ -16,4 +16,4 @@ My Name is **Iqshan Bagus Prasetyo**
    </a>
 </p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Ionic12/github-readme-stats)*
+*NOTE : Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Ionic12/github-readme-stats)*
