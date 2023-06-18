@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ionic12&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Langs" style="width: 495px">
 </p>
+
+<p align="left">
+  <a href="https://github.com/dimasmds">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ionic12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ionic12&layout=compact&langs_count=8&theme=algolia"/>
+   </a>
+</p>
