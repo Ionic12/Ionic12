@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/dimasmds">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ionic12&layout=compact&langs_count=8&theme=dark&background=000000"/>
+    <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats"/>
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ionic12&layout=compact&langs_count=8&theme=dark&background=000000"/>
    </a>
 </p>
