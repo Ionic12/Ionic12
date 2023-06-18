@@ -1,7 +1,6 @@
 <h1 align="left">Hi there, I'm Ionic12! 👋</h1>
 
-
-**Ionic12/Ionic12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is **Iqshan Bagus Prasetyo**
 
 <h2>📫 How to reach me</h2>
 
@@ -17,4 +16,4 @@
    </a>
 </p>
 
-<p align="left">✨ Thank you for visiting my profile! ✨</p>
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Ionic12/github-readme-stats)*
