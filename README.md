@@ -1,4 +1,4 @@
-<h1>Hi there, I'm **Ionic12!** 👋</h1>
+<h1>Hi there, I'm Ionic12! 👋</h1>
 
 My Name is **Iqshan Bagus Prasetyo** I am a Flutter & Web Developer Enthusiast from Indonesia 
 
