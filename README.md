@@ -5,7 +5,7 @@
 
 <h2>📫 How to reach me</h2>
 
-- Email: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+- Email: [![Gmail Badge](https://img.shields.io/badge/iqshanbagus-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 - LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-iqshanbagus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iqshanbagus/) 
 
 ## :fire: My Stats :
