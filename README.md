@@ -19,8 +19,6 @@ My Name is **Iqshan Bagus Prasetyo**
 
 <h2>:fire: My Stats</h2>
 
-Languages and Tools
-
 <p align="left">
   <a href="https://github.com/dimasmds">
     <img height="192em" src="http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats"/>
